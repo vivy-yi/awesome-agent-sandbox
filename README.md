@@ -65,6 +65,7 @@ AI coding agents are powerful because they can read files, run commands, install
 | [EdgeBox](https://github.com/BIGPPWONG/EdgeBox) | GUI-powered local sandbox with MCP protocol support | ⭐ |
 | [Kilntainers](https://github.com/Kiln-AI/Kilntainers) | MCP server for ephemeral Linux sandboxes | ⭐ |
 | [Daytona](https://www.daytona.io/docs/en/sandboxes/) | Open-source infrastructure with SDK/CLI | - |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first TypeScript runtime with MCP tool governance, persistent sessions, approvals, audit/replay, and Local/Docker/Kubernetes/worker sandbox backends | ⭐ |
 | [Tensorlake](https://github.com/tensorlakeai/tensorlake) | Serverless runtime for sandboxes and agents | ⭐ |
 | [AgentScope Runtime](https://github.com/agentscope-ai/agentscope-runtime) | Production-ready with secure tool sandboxing | ⭐ |
 | [SWE-ReX](https://github.com/SWE-agent/SWE-ReX) | 大规模并行沙箱化代码执行，驱动 SWE-agent | ⭐ 570 |
