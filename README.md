@@ -63,6 +63,7 @@ AI coding agents are powerful because they can read files, run commands, install
 | **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** | **通用沙箱平台，多语言SDK(Python/JS/Java/C#)，Docker/K8s运行时，支持gVisor/Kata/Firecracker** | **⭐ 12.7k** |
 | [agent-sandbox](https://github.com/agent-sandbox/agent-sandbox) | E2B-compatible, enterprise-grade runtime | ⭐ |
 | [EdgeBox](https://github.com/BIGPPWONG/EdgeBox) | GUI-powered local sandbox with MCP protocol support | ⭐ |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Local-first, self-hosted agent runtime with persistent sessions, MCP governance, credentials, audit/replay, and optional Docker/Kubernetes/worker sandbox backends | ⭐ 638 |
 | [Kilntainers](https://github.com/Kiln-AI/Kilntainers) | MCP server for ephemeral Linux sandboxes | ⭐ |
 | [Daytona](https://www.daytona.io/docs/en/sandboxes/) | Open-source infrastructure with SDK/CLI | - |
 | [Tensorlake](https://github.com/tensorlakeai/tensorlake) | Serverless runtime for sandboxes and agents | ⭐ |
@@ -155,6 +156,7 @@ AI coding agents are powerful because they can read files, run commands, install
 | [Sculptor](https://github.com/imbue-ai/sculptor) | Desktop tooling for isolated containers | ⭐ |
 | [vibebin](https://github.com/jgbrwn/vibebin) | Incus/LXC platform | ⭐ |
 | [runbox](https://github.com/sahilb315/runbox) | Minimal container-like sandbox in C | ⭐ |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | Self-hosted agent runtime with optional containerized execution, persistent sessions, MCP controls, and audit/replay; isolation depends on the selected backend and deployment configuration | ⭐ 638 |
 
 ---
 
@@ -240,6 +242,7 @@ AI coding agents are powerful because they can read files, run commands, install
 | [AgentSphere](https://www.agentsphere.run/) | MicroVM + MCP |
 | [AIO Sandbox](https://github.com/agent-infra/sandbox) | Full-featured container with MCP |
 | [EdgeBox](https://github.com/BIGPPWONG/EdgeBox) | GUI sandbox with MCP support |
+| [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) | MCP bridge for a local-first agent runtime with sandboxed sessions, credentials, approvals, and audit/replay; backend-dependent isolation |
 | [Kilntainers](https://github.com/Kiln-AI/Kilntainers) | MCP server for ephemeral sandboxes |
 | [VibeKit](https://docs.vibekit.sh/) | SDK supporting E2B, Daytona, Modal |
 | [forgemax](https://github.com/postrv/forgemax) | MCP gateway with sandboxed execution |
